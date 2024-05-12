@@ -469,7 +469,7 @@ footer{
 /* ミッションのメインビジュアル */
 
 #mission-main{
-  height: 256px;
+  height: 496px;
   width: 100%;
   background-image: url(images/mission/mission-main.png);
   background-repeat: no-repeat;
